@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DC52A1179E493110BE2E3BE3D36BACFC52AF883C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DC52A1179E493110BE2E3BE3D36BACFC52AF883C" : 9223372036854775807,
+    "1ADD7AE952EDF2A734B2A7B2CCBA78CE82CB1D10" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "012C6A9E-EB87-45A9-9C98-23E8CB4A7223",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DC52A1179E493110BE2E3BE3D36BACFC52AF883C" : "CohortClient-JQ3\/",
+    "1ADD7AE952EDF2A734B2A7B2CCBA78CE82CB1D10" : "CohortClient-JQ3\/cohort-lib-ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CohortClient",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CohortClient.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jakemoves\/cohort-lib-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1ADD7AE952EDF2A734B2A7B2CCBA78CE82CB1D10"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jakemoves\/jqrs-v3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DC52A1179E493110BE2E3BE3D36BACFC52AF883C"
+    }
+  ]
+}

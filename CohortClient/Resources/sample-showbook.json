@@ -1,0 +1,33 @@
+{
+	"event": "Sample Event",
+	"episodes":
+	[
+		{
+			"displayName": "Cohort Demo",
+			"episodeNumber": 1,
+			"episodeTrigger": {
+				"type": "called"
+			},
+			"cues":
+			[
+				{
+					"cueNumber": 1,
+					"cueTrigger": {
+                        "type": "timed",
+                        "time": 0.0 },
+		            "targetTags": [ "all" ],
+		            "filename": "test-vocalcue.m4a",
+		            "accessibleDescription": "Check one two, check one two"
+		        },{
+					"cueNumber": 2,
+                     "cueTrigger": {
+                         "type": "timed",
+                         "time": 5.0 },
+		            "targetTags": [ "all" ],
+		            "filename": "test-vocalcue.m4a",
+		            "accessibleDescription": "Check one two, check one two"
+		        }
+			]
+		}
+	]
+}

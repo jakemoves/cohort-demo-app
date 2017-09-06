@@ -1,0 +1,1 @@
+../../../TheAmazingAudioEngine/theamazingaudioengine/AEAudioUnitChannel.h

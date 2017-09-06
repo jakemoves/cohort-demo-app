@@ -1,0 +1,38 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - EventSource (1.0.0)
+  - TheAmazingAudioEngine (1.5.5)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.0)
+  - EventSource (~> 1.0)
+  - TheAmazingAudioEngine (~> 1.5)
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  EventSource: 58cfd8560bbe8a809e987f1bfa336168b8781873
+  TheAmazingAudioEngine: d867edf0da7c4d1283df5d721f5633d5523126b2
+
+PODFILE CHECKSUM: e511b295b96e31499a99e6827ebb60253e544c5e
+
+COCOAPODS: 1.1.1

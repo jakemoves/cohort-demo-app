@@ -1,0 +1,122 @@
+{
+	"event": "Cohort Test Event",
+	"episodes":
+	[
+		{
+			"displayName": "Test Episode 1",
+			"episodeCueNumber": 1,
+			"episodeTrigger": {
+				"type": "called"
+			},
+			"cues":
+			[
+				{
+					"cueNumber": 1,
+					"cueTrigger": {
+						"type": "timed",
+						"time": 1
+					},
+		            "targetTags": [
+		            	"all"
+		            ],
+		            "filename": "test-vocalcue.m4a",
+		            "accessibleDescription": "Check one two, check one two."
+		        },
+		        {
+					"cueNumber": 2,
+					"cueTrigger": {
+						"type": "timedWithCanon",
+						"time": 1,
+						"canonDelay": 0.5
+					},
+		            "targetTags": [
+		            	"all"
+		            ],
+		            "filename": "test-vocalcue.m4a",
+		            "accessibleDescription": "Check one two, check one two."
+		        },
+		        {
+					"cueNumber": 2,
+					"cueTrigger": {
+						"type": "called"
+					},
+		            "targetTags": [
+		            	"all"
+		            ],
+		            "filename": "test-vocalcue.m4a",
+		            "accessibleDescription": "Check one two, check one two."
+		        },
+		        {
+					"cueNumber": 2,
+					"cueTrigger": {
+						"type": "calledWithCanon",
+						"canonDelay": 0.5
+					},
+		            "targetTags": [
+		            	"all"
+		            ],
+		            "filename": "test-vocalcue.m4a",
+		            "accessibleDescription": "Check one two, check one two."
+		        }
+			]
+		},
+		{
+			"displayName": "Test Episode 2",
+			"episodeCueNumber": 2,
+			"episodeTrigger": {
+				"type": "called"
+			},
+			"cues":
+			[
+				{
+					"cueNumber": 1,
+					"cueTrigger": {
+						"type": "timed",
+						"time": 1
+					},
+		            "targetTags": [
+		            	"all"
+		            ],
+		            "filename": "test-vocalcue.m4a",
+		            "accessibleDescription": "Check one two, check one two."
+		        },
+		        {
+					"cueNumber": 2,
+					"cueTrigger": {
+						"type": "timedWithCanon",
+						"time": 1,
+						"canonDelay": 0.5
+					},
+		            "targetTags": [
+		            	"all"
+		            ],
+		            "filename": "test-vocalcue.m4a",
+		            "accessibleDescription": "Check one two, check one two."
+		        },
+		        {
+					"cueNumber": 2,
+					"cueTrigger": {
+						"type": "called"
+					},
+		            "targetTags": [
+		            	"all"
+		            ],
+		            "filename": "test-vocalcue.m4a",
+		            "accessibleDescription": "Check one two, check one two."
+		        },
+		        {
+					"cueNumber": 2,
+					"cueTrigger": {
+						"type": "calledWithCanon",
+						"canonDelay": 0.5
+					},
+		            "targetTags": [
+		            	"all"
+		            ],
+		            "filename": "test-vocalcue.m4a",
+		            "accessibleDescription": "Check one two, check one two."
+		        }
+			]
+		}
+	]
+}

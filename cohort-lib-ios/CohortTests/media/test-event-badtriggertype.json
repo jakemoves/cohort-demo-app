@@ -1,0 +1,28 @@
+{
+	"event": "Cohort Test Event",
+	"episodes":
+	[
+		{
+			"displayName": "Test Episode",
+			"episodeCueNumber": 1,
+			"episodeTrigger": {
+				"type": "called"
+			},
+			"cues":
+			[
+				{
+					"cueNumber": 1,
+					"cueTrigger": {
+						"type": "clock",
+						"time": 1
+					},
+		            "targetTags": [
+		            	"all"
+		            ],
+		            "filename": "test-vocalcue.m4a",
+		            "accessibleDescription": "Check one two, check one two."
+		        }
+			]
+		}
+	]
+}
